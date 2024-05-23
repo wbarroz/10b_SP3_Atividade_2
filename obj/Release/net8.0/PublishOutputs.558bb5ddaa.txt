@@ -1,0 +1,13 @@
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/PETS
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/appsettings.Development.json
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/appsettings.json
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/PETS.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/PETS.deps.json
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/PETS.runtimeconfig.json
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/PETS.pdb
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/System.Data.SqlClient.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/runtimes/win-arm64/native/sni.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/runtimes/win-x64/native/sni.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/runtimes/win-x86/native/sni.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/wilson/Documentos/senai/codificaBackEnd/PETS/bin/Release/net8.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "cf+vImwmU0TSLe+cyP4kB58Ho0vCrroxjuxMrYC/FUM=",
+  "Source": "PETS",
+  "BasePath": "_content/PETS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PETS/wwwroot",
+      "Source": "PETS",
+      "ContentRoot": "/home/wilson/Documentos/senai/codificaBackEnd/PETS/wwwroot/",
+      "BasePath": "_content/PETS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/wilson/Documentos/senai/codificaBackEnd/PETS/wwwroot/index.html",
+      "SourceId": "PETS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/wilson/Documentos/senai/codificaBackEnd/PETS/wwwroot/",
+      "BasePath": "_content/PETS",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

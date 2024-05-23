@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/wilson/Documentos/senai/codificaBackEnd/PETS/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PETS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PETS.props",
+      "PackagePath": "build\\PETS.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PETS.props",
+      "PackagePath": "buildMultiTargeting\\PETS.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PETS.props",
+      "PackagePath": "buildTransitive\\PETS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
